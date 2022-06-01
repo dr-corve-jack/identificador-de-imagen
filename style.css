@@ -1,0 +1,17 @@
+body{
+color:rgb(101, 148, 91);
+background-color:rgb(56, 53, 48) ;
+}
+.heading{
+    width: 80%;;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name_of_objects{
+    color: rgb(141, 189, 130);
+}
+#camera{
+border: 2px dashed rgb(146, 172, 117);
+width:350px;
+height: 300px;
+}
